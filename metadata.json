@@ -1,0 +1,6 @@
+{
+  "name": "Operation Silent Ledger — AI Crisis Exercise",
+  "description": "Executive tabletop crisis simulation platform showcasing Operation Silent Ledger: RAVEN, SENTINEL, and COMPASS AI governance, decision points, inject cards, and evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

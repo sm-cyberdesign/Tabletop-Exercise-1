@@ -1,0 +1,22 @@
+"Operation Silent Ledger — AI update: approval, merge and verification",,,,,,
+"CISO approved revision 6 on 2026-10-27; merged the same day. Verification = text check of each tab's PDF export on 2026-10-27 (required content present, stale text absent).",,,,,,
+Owner validation stays separate: merged content can still rest on an assumption or legal question that is pending.,,,,,,
+,,,,,,
+#,Item,Merged into,Verification evidence,Approval,Merge status,Owner validation
+1,RAVEN (attacker AI agent),"Facilitator Guide §1.1, §2.1, §3",Present in Facilitator Guide export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+2,"SENTINEL profile, credentials, tiers and authority",Plan §4.1,Present in Plan export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+3,SENTINEL credential evidence and options,Facilitator Guide §4.2; Player Packet Card 4.1,Present in Facilitator Guide export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+4,"COMPASS profile, sources, boundaries, authority, fallback",Plan §4.2; Appendix F,Present in Plan export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+5,COMPASS shared-infrastructure check,Facilitator Guide §2.2,Present in Facilitator Guide export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+6,Suspected vs confirmed AI attribution,Facilitator Guide §2.3,Present in Facilitator Guide export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+7,AI objectives O8 and O9; 7 of 9 rule,Plan §2,Present in Plan export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+8,Continuity tests DP-6 (by 14:30; Part B by 15:15) and DP-9,Facilitator Guide §4.1,Present in Facilitator Guide export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+9,AI evaluation measures and calibration,Plan §8,Present in Plan export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+10,Critical failures CF1–CF11 incl. CF11a/b,Plan §8,Present in Plan export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+11,14 inject cards with SENTINEL and COMPASS output,Player Packet Part 3; Facilitator Guide §4 MSEL,Present in Player Packet Part 3 export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+12,Assumption register I-1 to I-22,Facilitator Guide §7,Present in Facilitator Guide export; text check passed on 2026-10-27.,Approved,Merged and verified,Pending validation
+13,Legal register J2-1 to J2-15,Facilitator Guide §7,Present in Facilitator Guide export; text check passed on 2026-10-27.,Approved,Merged and verified,Pending validation
+14,Revised agenda ending 14:15,Plan §9 Appendix A,Present in Plan export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+15,"Roster, exercise cell and role-players",Plan §4,Present in Plan export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+16,Access control and release gates,"Plan §5, §7",Present in Plan export; text check passed on 2026-10-27.,Approved,Merged and verified,Not applicable
+17,Day length in §1 (summary sentence and Format row),Plan §1,"Found during rehearsal prep: §1 still said ""4-hour"" and ""45-minute hotwash"". Corrected on 2026-10-27 to 09:00–13:25 plus a 50-minute hotwash ending 14:15, matching Appendix A.",Approved,Merged,Not applicable
